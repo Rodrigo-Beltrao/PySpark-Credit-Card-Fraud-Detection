@@ -9,7 +9,7 @@ Este projeto tem como objetivo desenvolver um sistema de detecção de fraudes e
 
 ## Tecnologias Utilizadas
 - PySpark: PySpark é a interface Python para o Apache Spark, um framework de processamento de dados em larga escala. Ele nos permitiu lidar com grandes datasets e aplicar algoritmos de aprendizado de máquina de maneira distribuída.
-- Random Forest Classifier: Escolhi o algoritmo Random Forest como modelo de classificação devido à sua robustez e capacidade de lidar com dados desbalanceados, comuns em problemas de detecção de fraudes.
+- Random Forest Classifier: Eu escolhi o algoritmo Random Forest como modelo de classificação devido à sua robustez e capacidade de lidar com dados desbalanceados, comuns em problemas de detecção de fraudes.
 
 ## Etapas Principais
 ### Pré-processamento dos Dados
