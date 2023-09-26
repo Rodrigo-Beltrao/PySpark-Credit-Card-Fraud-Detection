@@ -33,8 +33,6 @@ Este projeto ilustra como a combinação de PySpark e um modelo Random Forest po
 <p align="center">
     <img src="https://i.imgur.com/aYUr0lh.png" alt="CreditCard">
 </p>
-
-||-
         
 ## Fonte dos dados:
 https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
