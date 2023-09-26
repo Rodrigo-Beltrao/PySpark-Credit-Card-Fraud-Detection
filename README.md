@@ -32,9 +32,11 @@ Este projeto ilustra como a combinação de PySpark e um modelo Random Forest po
 
 <p align="center">  <img src="https://i.imgur.com/aYUr0lh.png" alt="Pizza> </p>
 
+||
         
+## Fonte dos dados:
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 ## Dicionário de Dados
-
 - **id**: Identificador exclusivo para cada transação.
 
 - **V1-V28**: Recursos anonimizados que representam vários atributos da transação, como hora, local, etc. Esses recursos são anonimizados por questões de privacidade e segurança.
@@ -42,6 +44,3 @@ Este projeto ilustra como a combinação de PySpark e um modelo Random Forest po
 - **Amount**: Valor da transação, indicando o montante envolvido na transação.
 
 - **Class**: Rótulo binário que indica se a transação é fraudulenta (1) ou não (0).
-
-## Fonte dos dados:
-https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
