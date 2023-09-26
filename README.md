@@ -29,3 +29,16 @@ O modelo treinado demonstrou uma capacidade sólida de detectar transações fra
 
 ## Conclusão
 Este projeto ilustra como a combinação de PySpark e um modelo Random Forest pode ser poderosa na detecção de fraudes em transações de cartão de crédito, especialmente em um cenário em que as transações fraudulentas representam **15%** do conjunto de dados. A capacidade de lidar com grandes volumes de dados e produzir resultados precisos é essencial para empresas que desejam proteger seus clientes contra atividades fraudulentas. Além disso, a interpretabilidade do modelo permite uma análise mais profunda das transações suspeitas, melhorando ainda mais a segurança financeira.
+
+## Dicionário de Dados
+
+- **id**: Identificador exclusivo para cada transação.
+
+- **V1-V28**: Recursos anonimizados que representam vários atributos da transação, como hora, local, etc. Esses recursos são anonimizados por questões de privacidade e segurança.
+
+- **Amount**: Valor da transação, indicando o montante envolvido na transação.
+
+- **Class**: Rótulo binário que indica se a transação é fraudulenta (1) ou não (0).
+
+## Fonte dos dados:
+https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
